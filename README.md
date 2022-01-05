@@ -30,4 +30,4 @@ Reproduction of the methods - Name of the files and links to code files:
 	3. Multiple trainings of ResNet-50 architecture:   
 		File name: Multiple trainings of ResNet-50 architecture.ipynb    
 		Link to code: https://colab.research.google.com/drive/1EIwG9SCVXwoa-tjHnUXIu0NYMfrurnMk?usp=sharing  
-<\pre>
+</pre>

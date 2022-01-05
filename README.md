@@ -1,6 +1,6 @@
 # COVID-19-screening
 A COVID-19 screening method using Deep Learning. 
-The current repository contains the work of my diploma thesis. For more information about the methodologies followed and the acquired results, please refer to the thesis.
+The current repository contains the work of my diploma thesis. For more information about the methodologies followed and the acquired results, please refer to the [thesis](Diploma_Thesis_Christina_Ntourma.pdf).
 
 # Code Reproduction
 Datasets used - Download links:  
@@ -10,21 +10,16 @@ Datasets used - Download links:
 
 Data Preprocessing - Name of the files and links to code files:  
 	1. Cambridge dataset:   
-		File name: [Cambridge dataset preprocessing.ipynb] (Cambridge dataset preprocessing.ipynb) 
+		File name: [Cambridge dataset preprocessing.ipynb](Cambridge dataset preprocessing.ipynb)   
 	2. COUGHVID dataset:   
-		File name: COUGHVID dataset preprocessing.ipynb  
-		Link to code: https://colab.research.google.com/drive/1uhC-hS5f9t9BVdzOxwSfJ01LUAQrJxmj?usp=sharing  
+		File name: [COUGHVID dataset preprocessing.ipynb](COUGHVID dataset preprocessing.ipynb)  
 	3. Coswara dataset:   
-		File name: Coswara dataset preprocessing.ipynb  
-		Link to code: https://colab.research.google.com/drive/1euoiQ1rsAn2zzkpODBFmNg15vIpSf4xq?usp=sharing  
+		File name: [Coswara dataset preprocessing.ipynb](Coswara dataset preprocessing.ipynb)  
 	
 Reproduction of the methods - Name of the files and links to code files:  
 	1. 5 fold cross validation using one single model:   
-		File name: 5-fold cross validation using one single model.ipynb  
-		Link to code: https://colab.research.google.com/drive/13gTPO06r4PpF6D08gSA5qcw9XLfpubh7?usp=sharing  
+		File name: [5-fold cross validation using one single model.ipynb](5-fold cross validation using one single model.ipynb)  
 	2. 5 fold cross validation using ensemble models:   
-		File name: 5-fold cross validation using ensemble models.ipynb  
-		Link to code: https://colab.research.google.com/drive/1UQEbufXoCSaFbAW8PUTljzg2ltWPVUjJ?usp=sharing  
+		File name: [5-fold cross validation using ensemble models.ipynb](5-fold cross validation using ensemble models.ipynb)  
 	3. Multiple trainings of ResNet-50 architecture:   
-		File name: Multiple trainings of ResNet-50 architecture.ipynb    
-		Link to code: https://colab.research.google.com/drive/1EIwG9SCVXwoa-tjHnUXIu0NYMfrurnMk?usp=sharing  
+		File name: [Multiple trainings of ResNet-50 architecture.ipynb](Multiple trainings of ResNet-50 architecture.ipynb)

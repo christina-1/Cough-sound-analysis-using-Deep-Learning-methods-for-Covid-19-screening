@@ -4,7 +4,7 @@ The current repository contains the work of my diploma thesis. For more informat
 
 # Code Reproduction
 Datasets used - Download links:  
-	1. Sub Cambridge dataset: Not publicly available, provided under data-sharing agreement  
+	Sub 1. Cambridge dataset: Not publicly available, provided under data-sharing agreement  
 	2. COUGHVID dataset (version 2.0): https://zenodo.org/record/4498364#.YWauRhpByUk  
 	3. Coswara dataset: (commit ID: 365767c) https://github.com/iiscleap/Coswara-Data  
 

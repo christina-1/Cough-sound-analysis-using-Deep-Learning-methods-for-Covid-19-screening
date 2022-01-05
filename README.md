@@ -2,7 +2,7 @@
 A COVID-19 screening method using Deep Learning. 
 The current repository contains the work of my diploma thesis. For more information about the methodologies followed and the acquired results, please refer to the thesis.
 
-# Reproduction
+# Code Reproduction
 Datasets used - Download links:
 	1. Cambridge dataset: Not publicly available, provided under data-sharing agreement
 	2. COUGHVID dataset (version 2.0): https://zenodo.org/record/4498364#.YWauRhpByUk

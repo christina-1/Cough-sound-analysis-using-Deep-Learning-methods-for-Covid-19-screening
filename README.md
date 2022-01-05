@@ -20,6 +20,6 @@ Reproduction of the methods - Name of the files and links to code files:
 	1. 5 fold cross validation using one single model:   
 		File name: [5-fold cross validation using one single model.ipynb](5-fold cross validation using one single model.ipynb)  
 	2. 5 fold cross validation using ensemble models:   
-		File name: [5-fold cross validation using ensemble models.ipynb](5-fold cross validation using ensemble models.ipynb)  
+		File name: [5-fold cross validation using ensemble models.ipynb](https://github.com/christina-1/COVID-19-screening/blob/9573084a7144b14fa00e56fdbf812ca2be6c9054/5-fold%20cross%20validation%20using%20ensemble%20models.ipynb)  
 	3. Multiple trainings of ResNet-50 architecture:   
 		File name: [Multiple trainings of ResNet-50 architecture.ipynb](Multiple trainings of ResNet-50 architecture.ipynb)

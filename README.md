@@ -1,5 +1,5 @@
 # COVID-19-screening
-A COVID-19 screening method using Deep Learning. 
+A COVID-19 screening method using Deep Learning.   
 The current repository contains the work of my diploma thesis. For more information about the methodologies followed and the acquired results, please refer to the [thesis](Diploma_Thesis_Christina_Ntourma.pdf).
 
 # Code Reproduction

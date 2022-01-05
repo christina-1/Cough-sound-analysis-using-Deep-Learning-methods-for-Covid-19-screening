@@ -3,6 +3,7 @@ A COVID-19 screening method using Deep Learning.
 The current repository contains the work of my diploma thesis. For more information about the methodologies followed and the acquired results, please refer to the thesis.
 
 # Code Reproduction
+<pre>
 Datasets used - Download links:  
 	1. Cambridge dataset: Not publicly available, provided under data-sharing agreement  
 	2. COUGHVID dataset (version 2.0): https://zenodo.org/record/4498364#.YWauRhpByUk  
@@ -29,3 +30,4 @@ Reproduction of the methods - Name of the files and links to code files:
 	3. Multiple trainings of ResNet-50 architecture:   
 		File name: Multiple trainings of ResNet-50 architecture.ipynb    
 		Link to code: https://colab.research.google.com/drive/1EIwG9SCVXwoa-tjHnUXIu0NYMfrurnMk?usp=sharing  
+<\pre>

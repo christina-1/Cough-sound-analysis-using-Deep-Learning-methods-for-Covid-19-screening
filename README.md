@@ -10,16 +10,16 @@ Datasets used - Download links:
 
 Data Preprocessing - Name of the files and links to code files:  
 	1. Cambridge dataset:   
-		File name: [Cambridge dataset preprocessing.ipynb](Cambridge dataset preprocessing.ipynb)   
+		File name: [Cambridge dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Cambridge%20dataset%20preprocessing.ipynb)   
 	2. COUGHVID dataset:   
-		File name: [COUGHVID dataset preprocessing.ipynb](COUGHVID dataset preprocessing.ipynb)  
+		File name: [COUGHVID dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/COUGHVID%20dataset%20preprocessing.ipynb)  
 	3. Coswara dataset:   
-		File name: [Coswara dataset preprocessing.ipynb](Coswara dataset preprocessing.ipynb)  
+		File name: [Coswara dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Coswara%20dataset%20preprocessing.ipynb)  
 	
 Reproduction of the methods - Name of the files and links to code files:  
 	1. 5 fold cross validation using one single model:   
-		File name: [5-fold cross validation using one single model.ipynb](5-fold cross validation using one single model.ipynb)  
+		File name: [5-fold cross validation using one single model.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/5-fold%20cross%20validation%20using%20one%20single%20model.ipynb)  
 	2. 5 fold cross validation using ensemble models:   
 		File name: [5-fold cross validation using ensemble models.ipynb](https://github.com/christina-1/COVID-19-screening/blob/9573084a7144b14fa00e56fdbf812ca2be6c9054/5-fold%20cross%20validation%20using%20ensemble%20models.ipynb)  
 	3. Multiple trainings of ResNet-50 architecture:   
-		File name: [Multiple trainings of ResNet-50 architecture.ipynb](Multiple trainings of ResNet-50 architecture.ipynb)
+		File name: [Multiple trainings of ResNet-50 architecture.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Multiple%20trainings%20of%20ResNet-50%20architecture.ipynb)

@@ -4,14 +4,13 @@ The current repository contains the work of my diploma thesis. For more informat
 
 # Code Reproduction
 Datasets used - Download links:  
-	Sub 1. Cambridge dataset: Not publicly available, provided under data-sharing agreement  
-	2. COUGHVID dataset (version 2.0): https://zenodo.org/record/4498364#.YWauRhpByUk  
-	3. Coswara dataset: (commit ID: 365767c) https://github.com/iiscleap/Coswara-Data  
+	    1. Cambridge dataset: Not publicly available, provided under data-sharing agreement  
+	    2. [COUGHVID dataset (version 2.0)] (https://zenodo.org/record/4498364#.YWauRhpByUk)
+	    3. [Coswara dataset: (commit ID: 365767c)] (https://github.com/iiscleap/Coswara-Data)  
 
 Data Preprocessing - Name of the files and links to code files:  
 	1. Cambridge dataset:   
-		File name: Cambridge dataset preprocessing.ipynb  
-		Link to code: https://colab.research.google.com/drive/12YkkSI_vIdQWI5s8-qhXrxfUPuuCIXta?usp=sharing  
+		File name: [Cambridge dataset preprocessing.ipynb] (Cambridge dataset preprocessing.ipynb) 
 	2. COUGHVID dataset:   
 		File name: COUGHVID dataset preprocessing.ipynb  
 		Link to code: https://colab.research.google.com/drive/1uhC-hS5f9t9BVdzOxwSfJ01LUAQrJxmj?usp=sharing  

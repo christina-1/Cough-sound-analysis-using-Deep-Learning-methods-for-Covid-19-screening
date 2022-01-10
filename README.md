@@ -12,7 +12,7 @@ The current repository contains the work of my diploma thesis. For more informat
 ## Data Preprocessing - Name of the files and links to code files:  
 
 1. Cambridge dataset:   
-	File name: [Cambridge dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Cambridge%20dataset%20preprocessing.ipynb)   
+	The relevant file has not been shared because it contains information about the Cambridge dataset which has been provided under data-sharing agreement	   
 2. COUGHVID dataset:   
 	File name: [COUGHVID dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/COUGHVID%20dataset%20preprocessing.ipynb)  
 3. Coswara dataset:   

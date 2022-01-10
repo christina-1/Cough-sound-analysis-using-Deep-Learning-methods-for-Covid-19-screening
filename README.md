@@ -14,15 +14,15 @@ The current repository contains the work of my diploma thesis. For more informat
 1. Cambridge dataset:   
 	The relevant file has not been shared because it contains information about the Cambridge dataset which has been provided under data-sharing agreement	   
 2. COUGHVID dataset:   
-	File name: [COUGHVID dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/COUGHVID%20dataset%20preprocessing.ipynb)  
+	File name: [COUGHVID_dataset_preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/COUGHVID%20dataset%20preprocessing.ipynb)  
 3. Coswara dataset:   
-	File name: [Coswara dataset preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Coswara%20dataset%20preprocessing.ipynb)  
+	File name: [Coswara_dataset_preprocessing.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Coswara%20dataset%20preprocessing.ipynb)  
 	
 ## Reproduction of the methods - Name of the files and links to code files: 
 
 1. 5 fold cross validation using one single model:   
-	File name: [5-fold cross validation using one single model.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/5-fold%20cross%20validation%20using%20one%20single%20model.ipynb)  
+	File name: [5fold_cross_validation_using_one_single_model.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/5-fold%20cross%20validation%20using%20one%20single%20model.ipynb)  
 2. 5 fold cross validation using ensemble models:   
-	File name: [5-fold cross validation using ensemble models.ipynb](https://github.com/christina-1/COVID-19-screening/blob/9573084a7144b14fa00e56fdbf812ca2be6c9054/5-fold%20cross%20validation%20using%20ensemble%20models.ipynb)  
+	File name: [5fold_cross_validation_using_ensemble_models.ipynb](https://github.com/christina-1/COVID-19-screening/blob/9573084a7144b14fa00e56fdbf812ca2be6c9054/5-fold%20cross%20validation%20using%20ensemble%20models.ipynb)  
 3. Multiple trainings of ResNet-50 architecture:   
-	File name: [Multiple trainings of ResNet-50 architecture.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Multiple%20trainings%20of%20ResNet-50%20architecture.ipynb)
+	File name: [Transfer_learning_using_ResNet50_architecture.ipynb](https://github.com/christina-1/COVID-19-screening/blob/806df0ec2707e8d3d098f10ef16239f0fbcf6deb/Multiple%20trainings%20of%20ResNet-50%20architecture.ipynb)
